@@ -11,11 +11,11 @@
     --branco: #acb6e4;
     --laranja: #251f11;
     --azul-degrade: linear-gradient(97.54deg, #55595c 35.49%, #05884b 165.37%);
-    --fonte-principal: "Poppins";
+    --fonte-principal: "Barlow";
     --azul: #5bd650;
     --fonte-secundario: "Josefin Sans";
     --preto: #300101;
-    --cinza: #738d00;
+    --cinza: #004D00;
     --cinza-claro: #ec5dec;
 }
 
